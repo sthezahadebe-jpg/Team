@@ -34,7 +34,7 @@ function TeamA() {
         }
     
         if (age < 20) {
-            alert("Only no allow under 20");
+            alert("No allow under 20");
             return;
         }
     
